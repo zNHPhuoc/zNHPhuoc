@@ -1,15 +1,10 @@
-# 💫About Me :
-🔭 Web Developer
-
-👯 ...
-
-🤝 ...
-
-🌱 ...
-
-💬 ...
-
-⚡ ...
+💫 About Me
+🔭 I'm a passionate Web Developer specializing in full-stack development.
+👯 I'm open to collaborating on exciting web projects and open-source contributions.
+🤝 I'm looking for help with DevOps practices, server management, and scaling applications in production.
+🌱 I'm currently deepening my expertise in DevOps tools (CI/CD, Docker, Kubernetes) and server administration (Linux servers, Nginx/Apache optimization, security).
+💬 Ask me about frontend/backend technologies, cloud deployment, or troubleshooting server issues!
+⚡ Fun fact: I love turning complex problems into clean, efficient code – and coffee keeps me going through late-night deployments.
 
 
 ## 🌐Socials
